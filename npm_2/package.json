@@ -25,7 +25,7 @@
     },
     "dependencies": {
         "dateformat": "2.0.0",
-        "lodash": "4.17.4",
+        "lodash": "4.17.5",
         "chai": "3.5.0",
         "chai-as-promised": "6.0.0",
         "octopus-test-utils": "~0.0.2",

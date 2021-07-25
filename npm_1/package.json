@@ -30,7 +30,7 @@
         "chai-as-promised": "6.0.0",
         "eslint": "3.19.0",
         "eslint-plugin-mocha": "4.9.0",
-        "mocha": "3.4.1",
+        "mocha": "3.4.2",
         "npm-version-up": "0.1.5"
     },
     "peerDependencies": {
