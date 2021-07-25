@@ -10,3 +10,4 @@ target
 npm-shrinkwrap.json
 yarn.lock
 npm-debug.log.*
+.vscode/
